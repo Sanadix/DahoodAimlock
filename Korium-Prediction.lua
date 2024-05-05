@@ -1,4 +1,5 @@
 --[[
+Version 0.2
 
 By Foavv X Karszone
 Don't skid the code is free bro.
