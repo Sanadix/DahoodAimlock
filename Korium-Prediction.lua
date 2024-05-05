@@ -1,10 +1,10 @@
 --[[
 By Foavv X Karszone
-Don't skid the code is free bro.
-If you want more features, join discord !
+Don t skid the code is free bro.
+If you want more features join discord !
 https://discord.gg/rUACyeXQ
 
-If you are a developer and you want to make a script, we can work together ^^
+If you are a developer and you want to make a script we can work together ^^
 
 ]]--
 
